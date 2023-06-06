@@ -1,4 +1,5 @@
 #!/bin/bash
 echo "ALX is so cool"
-echo "ALX school'
+echo "ALX school}"
+git pull origin
 
